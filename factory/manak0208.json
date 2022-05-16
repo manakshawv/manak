@@ -1,0 +1,9 @@
+{
+	"name": "manak0208",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "961870f5-545a-4f88-bb9d-1761d40d7f78",
+		"tenantId": "ee16d1fa-5928-4fc0-b683-356e5a0c7985"
+	}
+}
