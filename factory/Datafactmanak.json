@@ -1,0 +1,9 @@
+{
+	"name": "Datafactmanak",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d179b5be-ac91-4a8d-8a45-041deba03823",
+		"tenantId": "ee16d1fa-5928-4fc0-b683-356e5a0c7985"
+	}
+}
