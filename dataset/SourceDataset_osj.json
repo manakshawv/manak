@@ -1,0 +1,31 @@
+{
+	"name": "SourceDataset_osj",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SqlServer1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": [
+			{
+				"name": "c1",
+				"type": "int",
+				"precision": 10
+			},
+			{
+				"name": "c2",
+				"type": "int",
+				"precision": 10
+			},
+			{
+				"name": "c3",
+				"type": "char"
+			}
+		],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "tab72"
+		}
+	}
+}
